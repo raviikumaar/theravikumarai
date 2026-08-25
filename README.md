@@ -28,8 +28,6 @@ Connect
 
 - Portfolio — https://theravikumarai.vercel.app
 - LinkedIn — https://linkedin.com/in/theravikumarai
-- Hugging Face — https://huggingface.co/theravikumarai
-- Kaggle — https://kaggle.com/theravikumarai
+- Kaggle — https://kaggle.com/theraviikrds
 - Medium — https://medium.com/@theravikumarai
-- YouTube — https://youtube.com/@theravikumarai
 - -----
