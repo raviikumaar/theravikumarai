@@ -29,5 +29,5 @@ Connect
 - Portfolio — https://theravikumarai.vercel.app
 - LinkedIn — https://linkedin.com/in/theravikumarai
 - Kaggle — https://kaggle.com/theraviikrds
-- Medium — https://medium.com/@theravikumarai
+- Medium — https://medium.com/@raviikrds
 - -----
