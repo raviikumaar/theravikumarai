@@ -6,13 +6,11 @@ My interests span Machine Learning, Deep Learning, NLP, Large Language Models, A
 
 Current Work
 
-- Building a production-ready Multi-Agent AI Platform
-- Developing LLM-powered applications and RAG systems
 - Exploring AI system design and MLOps
 
 Selected Projects
 
-- Multi-Agent AI Platform (In Progress)
+- Multi-Agent AI Platform
 - Portfolio (React, FastAPI, AWS)
 - TubeNotes AI
 
